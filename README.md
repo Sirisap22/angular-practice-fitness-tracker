@@ -1,5 +1,5 @@
 # FitnessTracker
 
-This project was created using Angular 11 with firebase and ngrx
+This project was created by using Angular11 with AngularFire2 and NgRx.
 
-[click to view website](https://ng-fitness-tracker-30b93.web.app/)
+[Click this to visit website.](https://ng-fitness-tracker-30b93.web.app/)
