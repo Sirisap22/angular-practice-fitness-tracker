@@ -28,6 +28,9 @@
               "src/styles.css"
             ],
             "scripts": [
+            ],
+            "allowedCommonJsDependencies": [
+              "hammerjs"
             ]
           },
           "configurations": {
